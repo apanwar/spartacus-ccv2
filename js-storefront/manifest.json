@@ -1,0 +1,9 @@
+{
+    "applications": [
+        {
+            "name": "mystore",
+            "path": "mystore"
+        }
+    ],
+        "nodeVersion": "12"
+}
